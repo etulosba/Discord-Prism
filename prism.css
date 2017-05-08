@@ -1,14 +1,15 @@
 /*Background*/
 
-.app {
-    background-image: url("https://i.stole-a-me.me/be304d.jpg");
+
+.app, {
+    background-image: url("http://tokyoghoul.wikia.com/wiki/File:One_Eyed_Owl_Attacks.png");
     background-repeat: repeat;
     background-position: 0px 0px;
     background-size: cover;
 }
 
 .connecting {
-    background-image: url("https://i.stole-a-me.me/be304d.jpg");
+    background-image: url("http://tokyoghoul.wikia.com/wiki/File:One_Eyed_Owl_Attacks.png");
     background-blend-mode: soft-light;
     background-repeat: repeat;
     background-position: 0px 0px;
